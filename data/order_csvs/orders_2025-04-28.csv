@@ -1,0 +1,14 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250271,2025-04-28,Chloe Wilson,chloe.wilson@example.com,"813 Anthony Forks, Seattle, Washington, 82815, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),2,11.49,22.98,Paid,2025-04-29
+O20250272,2025-04-28,Grace Garcia,grace.garcia@example.com,"728 Nathan Lane, Seattle, Washington, 73060, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),1,11.49,11.49,Paid,2025-04-30
+O20250273,2025-04-28,Hassan Davis,hassan.davis@example.com,"0955 Espinoza Vista Apt. 969, Bellevue, Washington, 06172, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),1,13.75,13.75,Paid,2025-04-29
+O20250274,2025-04-28,Emily Chen,emily.chen@example.com,"970 Dana Passage, Seattle, Washington, 19797, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),1,11.49,11.49,Paid,2025-04-30
+O20250275,2025-04-28,Tariq Kim,tariq.kim@example.com,"9353 Martin Harbors, Seattle, Washington, 01603, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),2,13.75,27.5,Paid,2025-04-30
+O20250276,2025-04-28,Daniel Lopez,daniel.lopez@example.com,"213 Lori Hollow, Seattle, Washington, 57142, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),3,14.99,44.97,Paid,2025-04-29
+O20250277,2025-04-28,Chloe Lopez,chloe.lopez@example.com,"964 Ricky Rest, Seattle, Washington, 93761, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),1,12.99,12.99,Paid,2025-04-30
+O20250278,2025-04-28,Aisha Ramirez,aisha.ramirez@example.com,"18236 Marsh Unions Apt. 058, Seattle, Washington, 48757, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),1,13.75,13.75,Paid,2025-04-29
+O20250279,2025-04-28,Leila Nguyen,leila.nguyen@example.com,"82484 Aaron Stream Apt. 865, Seattle, Washington, 12019, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),2,11.49,22.98,Paid,2025-04-30
+O20250280,2025-04-28,Mateo Wang,mateo.wang@example.com,"199 Todd Fork, Eugene, Oregon, 77647, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),3,14.99,44.97,Paid,2025-04-30
+O20250281,2025-04-28,Leila Young,leila.young@example.com,"913 Nichole Junction Suite 274, Portland, Oregon, 35015, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),3,12.99,38.97,Paid,2025-04-30
+O20250282,2025-04-28,Chloe Moore,chloe.moore@example.com,"304 Fritz Isle Suite 049, Seattle, Washington, 78261, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),1,14.99,14.99,Paid,2025-04-30
+O20250283,2025-04-28,Grace Khan,grace.khan@example.com,"595 Meghan Drives Apt. 407, Seattle, Washington, 07963, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),1,14.99,14.99,Paid,2025-04-29

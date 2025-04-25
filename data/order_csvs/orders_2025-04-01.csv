@@ -1,0 +1,5 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250001,2025-04-01,Mateo Wang,mateo.wang@example.com,"199 Todd Fork, Eugene, Oregon, 77647, USA",P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),3,10.99,32.97,Paid,2025-04-02
+O20250002,2025-04-01,Daniel Kim,daniel.kim@example.com,"151 Aguirre Expressway Apt. 591, Eugene, Oregon, 47326, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),2,12.99,25.98,Paid,2025-04-02
+O20250003,2025-04-01,Leila Moore,leila.moore@example.com,"038 Emily Circles, Los Angeles, California, 53658, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),3,13.75,41.25,Paid,2025-04-03
+O20250004,2025-04-01,Daniel Nguyen,daniel.nguyen@example.com,"5802 Sloan Creek, Seattle, Washington, 48528, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),1,11.49,11.49,Paid,2025-04-03

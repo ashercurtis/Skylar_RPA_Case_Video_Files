@@ -1,0 +1,12 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z375458430366096529,O20250142,2025-04-21,UPS,Shipped,2025-04-25,Tariq Lee,"71389 Taylor Island Apt. 787, Seattle, Washington, 55947, USA"
+1Z741802644328536109,O20250143,2025-04-21,UPS,Shipped,2025-04-25,Mateo Martinez,"9594 Sarah Falls Suite 437, Portland, Oregon, 78281, USA"
+1Z389743347396823412,O20250146,2025-04-21,UPS,Shipped,2025-04-23,Mei Davis,"8794 Martinez Walk Apt. 964, Seattle, Washington, 59229, USA"
+1Z375746237480617010,O20250148,2025-04-21,UPS,Shipped,2025-04-25,Leila Nguyen,"82484 Aaron Stream Apt. 865, Seattle, Washington, 12019, USA"
+1Z183184881533897172,O20250150,2025-04-21,UPS,Shipped,2025-04-25,Noah Anderson,"08810 Edwards Fall, Seattle, Washington, 97313, USA"
+1Z322294861952240815,O20250152,2025-04-21,UPS,Shipped,2025-04-24,Miguel Davis,"678 Timothy Corner Apt. 043, Seattle, Washington, 68022, USA"
+1Z323916230287593125,O20250154,2025-04-21,UPS,Shipped,2025-04-24,Chloe Moore,"304 Fritz Isle Suite 049, Seattle, Washington, 78261, USA"
+1Z579683883582820299,O20250157,2025-04-21,UPS,Shipped,2025-04-24,Mateo Nguyen,"5403 Jackson Coves, Seattle, Washington, 61603, USA"
+1Z578785048049503580,O20250158,2025-04-21,UPS,Shipped,2025-04-25,Kenji Davis,"09814 Kimberly Stravenue, Seattle, Washington, 53542, USA"
+1Z713533447994682026,O20250160,2025-04-21,UPS,Shipped,2025-04-23,Mateo Martinez,"9594 Sarah Falls Suite 437, Portland, Oregon, 78281, USA"
+1Z405860241300793874,O20250164,2025-04-21,UPS,Shipped,2025-04-24,Leila Nguyen,"82484 Aaron Stream Apt. 865, Seattle, Washington, 12019, USA"

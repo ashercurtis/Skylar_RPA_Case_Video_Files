@@ -1,0 +1,2 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250008,2025-04-05,Priya Lee,priya.lee@example.com,"3678 Richard Ferry Apt. 729, Seattle, Washington, 39459, USA",P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),3,10.99,32.97,Paid,2025-04-07

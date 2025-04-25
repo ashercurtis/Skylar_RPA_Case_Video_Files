@@ -1,0 +1,2 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z269933308312898760,O20250262,2025-05-02,UPS,Shipped,2025-05-05,Isabella Lee,"468 Lopez Vista, Seattle, Washington, 03260, USA"

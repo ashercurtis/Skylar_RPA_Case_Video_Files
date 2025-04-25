@@ -1,0 +1,2 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z304035935051600594,O20250009,2025-04-07,UPS,Shipped,2025-04-11,Chloe Nguyen,"79078 Drew Hills Apt. 446, Seattle, Washington, 04047, USA"

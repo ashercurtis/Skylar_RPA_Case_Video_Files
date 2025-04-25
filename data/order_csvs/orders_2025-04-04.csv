@@ -1,0 +1,2 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250007,2025-04-04,Mateo Martinez,mateo.martinez@example.com,"9594 Sarah Falls Suite 437, Portland, Oregon, 78281, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),1,14.99,14.99,Paid,2025-04-05

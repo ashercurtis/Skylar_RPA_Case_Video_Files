@@ -1,0 +1,8 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z101999343462361985,O20250045,2025-04-14,UPS,Shipped,2025-04-16,Raj Wilson,"525 Crawford Expressway, Sacramento, California, 21209, USA"
+1Z791794227990944596,O20250047,2025-04-14,UPS,Shipped,2025-04-18,Jamal Martinez,"9745 Blake Mission, Portland, Oregon, 83618, USA"
+1Z873088235069616070,O20250048,2025-04-14,UPS,Shipped,2025-04-16,Chloe Moore,"304 Fritz Isle Suite 049, Seattle, Washington, 78261, USA"
+1Z981814365273656661,O20250051,2025-04-14,UPS,Shipped,2025-04-18,Leila Young,"913 Nichole Junction Suite 274, Portland, Oregon, 35015, USA"
+1Z617013837874993562,O20250053,2025-04-14,UPS,Shipped,2025-04-17,Daniel Lopez,"213 Lori Hollow, Seattle, Washington, 57142, USA"
+1Z613225005704355226,O20250054,2025-04-14,UPS,Shipped,2025-04-16,Hassan Davis,"0955 Espinoza Vista Apt. 969, Bellevue, Washington, 06172, USA"
+1Z118782583135698579,O20250055,2025-04-14,UPS,Shipped,2025-04-18,Daniel Kim,"151 Aguirre Expressway Apt. 591, Eugene, Oregon, 47326, USA"

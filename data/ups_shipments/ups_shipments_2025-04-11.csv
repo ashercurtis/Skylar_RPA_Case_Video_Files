@@ -1,0 +1,6 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z157348592412977494,O20250011,2025-04-11,UPS,Shipped,2025-04-14,Jamal Ali,"4124 Jensen River Suite 551, Seattle, Washington, 54288, USA"
+1Z526528342375451360,O20250019,2025-04-11,UPS,Shipped,2025-04-14,Priya Wilson,"103 Steven Spurs Apt. 305, Seattle, Washington, 59746, USA"
+1Z979383457088579923,O20250021,2025-04-11,UPS,Shipped,2025-04-14,Emily Kim,"866 Tracy Island, Seattle, Washington, 34472, USA"
+1Z513295988135363483,O20250022,2025-04-11,UPS,Shipped,2025-04-14,Chloe Moore,"304 Fritz Isle Suite 049, Seattle, Washington, 78261, USA"
+1Z150072043048659982,O20250025,2025-04-11,UPS,Shipped,2025-04-15,Raj Wilson,"525 Crawford Expressway, Sacramento, California, 21209, USA"

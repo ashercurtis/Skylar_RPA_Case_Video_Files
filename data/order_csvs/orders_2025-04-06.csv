@@ -1,0 +1,2 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250009,2025-04-06,Chloe Nguyen,chloe.nguyen@example.com,"79078 Drew Hills Apt. 446, Seattle, Washington, 04047, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),3,13.75,41.25,Paid,2025-04-07

@@ -1,0 +1,6 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z171563257133342389,O20250010,2025-04-10,UPS,Shipped,2025-04-12,Noah Johnson,"584 Christine Crest Apt. 729, Eugene, Oregon, 72667, USA"
+1Z375042337594514482,O20250015,2025-04-10,UPS,Shipped,2025-04-14,Chloe Nguyen,"79078 Drew Hills Apt. 446, Seattle, Washington, 04047, USA"
+1Z218800853025165542,O20250016,2025-04-10,UPS,Shipped,2025-04-14,Daniel Lopez,"5601 Davis Courts Suite 785, Seattle, Washington, 80519, USA"
+1Z981179566411509011,O20250017,2025-04-10,UPS,Shipped,2025-04-12,Grace Martinez,"39636 Jackson Shore, Eugene, Oregon, 44188, USA"
+1Z560819286791368844,O20250018,2025-04-10,UPS,Shipped,2025-04-12,Miguel Wilson,"8091 Jared Gardens Apt. 128, Seattle, Washington, 55178, USA"

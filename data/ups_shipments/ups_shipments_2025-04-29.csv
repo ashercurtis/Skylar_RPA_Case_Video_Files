@@ -1,0 +1,7 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z793960358892094094,O20250210,2025-04-29,UPS,Shipped,2025-05-03,Daniel Kim,"151 Aguirre Expressway Apt. 591, Eugene, Oregon, 47326, USA"
+1Z855360307838690683,O20250275,2025-04-29,UPS,Shipped,2025-05-03,Tariq Kim,"9353 Martin Harbors, Seattle, Washington, 01603, USA"
+1Z348470726651358141,O20250277,2025-04-29,UPS,Shipped,2025-05-03,Chloe Lopez,"964 Ricky Rest, Seattle, Washington, 93761, USA"
+1Z984910119381232376,O20250280,2025-04-29,UPS,Shipped,2025-05-02,Mateo Wang,"199 Todd Fork, Eugene, Oregon, 77647, USA"
+1Z800187630920531968,O20250281,2025-04-29,UPS,Shipped,2025-05-02,Leila Young,"913 Nichole Junction Suite 274, Portland, Oregon, 35015, USA"
+1Z388441916748494080,O20250283,2025-04-29,UPS,Shipped,2025-05-03,Grace Khan,"595 Meghan Drives Apt. 407, Seattle, Washington, 07963, USA"

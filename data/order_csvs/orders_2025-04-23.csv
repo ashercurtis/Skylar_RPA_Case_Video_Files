@@ -1,0 +1,16 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250184,2025-04-23,Leila Patel,leila.patel@example.com,"241 Hall Drive, Seattle, Washington, 88335, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),1,12.99,12.99,Paid,2025-04-24
+O20250185,2025-04-23,Raj Martinez,raj.martinez@example.com,"5612 Lowe Path, Seattle, Washington, 97581, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),1,14.99,14.99,Paid,2025-04-25
+O20250186,2025-04-23,Daniel Lopez,daniel.lopez@example.com,"213 Lori Hollow, Seattle, Washington, 57142, USA",P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),1,10.99,10.99,Paid,2025-04-25
+O20250187,2025-04-23,Priya Garcia,priya.garcia@example.com,"32097 Timothy Springs Suite 608, Seattle, Washington, 44985, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),3,12.25,36.75,Paid,2025-04-25
+O20250188,2025-04-23,Daniel Nguyen,daniel.nguyen@example.com,"8345 Ashley Land, Seattle, Washington, 68005, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),2,14.99,29.98,Paid,2025-04-25
+O20250189,2025-04-23,Daniel Lopez,daniel.lopez@example.com,"213 Lori Hollow, Seattle, Washington, 57142, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),2,13.75,27.5,Paid,2025-04-25
+O20250190,2025-04-23,Mei Patel,mei.patel@example.com,"2375 James Crescent, Seattle, Washington, 67843, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),1,11.49,11.49,Paid,2025-04-24
+O20250191,2025-04-23,Leila Young,leila.young@example.com,"913 Nichole Junction Suite 274, Portland, Oregon, 35015, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),3,12.99,38.97,Paid,2025-04-25
+O20250192,2025-04-23,Raj Martinez,raj.martinez@example.com,"5612 Lowe Path, Seattle, Washington, 97581, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),3,13.75,41.25,Paid,2025-04-25
+O20250193,2025-04-23,Noah Nguyen,noah.nguyen@example.com,"023 Todd River, Seattle, Washington, 97153, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),2,12.99,25.98,Paid,2025-04-25
+O20250194,2025-04-23,Kenji Kim,kenji.kim@example.com,"7925 Schmidt Union Suite 619, Seattle, Washington, 68084, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),2,14.99,29.98,Paid,2025-04-25
+O20250195,2025-04-23,Priya Garcia,priya.garcia@example.com,"32097 Timothy Springs Suite 608, Seattle, Washington, 44985, USA",P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),2,10.99,21.98,Paid,2025-04-24
+O20250196,2025-04-23,Jamal Ali,jamal.ali@example.com,"4124 Jensen River Suite 551, Seattle, Washington, 54288, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),1,12.25,12.25,Paid,2025-04-25
+O20250197,2025-04-23,Linh Ramirez,linh.ramirez@example.com,"9764 Katherine Parkways, Seattle, Washington, 51564, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),2,12.99,25.98,Paid,2025-04-24
+O20250198,2025-04-23,Priya Khan,priya.khan@example.com,"061 Brown River Apt. 216, Seattle, Washington, 06130, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),2,12.99,25.98,Paid,2025-04-24

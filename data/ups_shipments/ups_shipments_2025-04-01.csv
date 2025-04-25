@@ -1,0 +1,4 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z555798271479092382,O20250001,2025-04-01,UPS,Shipped,2025-04-04,Mateo Wang,"199 Todd Fork, Eugene, Oregon, 77647, USA"
+1Z323287406098424073,O20250002,2025-04-01,UPS,Shipped,2025-04-05,Daniel Kim,"151 Aguirre Expressway Apt. 591, Eugene, Oregon, 47326, USA"
+1Z465083922918802628,O20250003,2025-04-01,UPS,Shipped,2025-04-03,Leila Moore,"038 Emily Circles, Los Angeles, California, 53658, USA"

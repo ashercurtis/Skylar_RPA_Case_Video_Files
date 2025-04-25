@@ -1,0 +1,11 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z582333868984504695,O20250177,2025-04-23,UPS,Shipped,2025-04-25,Priya Garcia,"32097 Timothy Springs Suite 608, Seattle, Washington, 44985, USA"
+1Z506301069530391186,O20250181,2025-04-23,UPS,Shipped,2025-04-25,Kenji Davis,"09814 Kimberly Stravenue, Seattle, Washington, 53542, USA"
+1Z153533147163827983,O20250183,2025-04-23,UPS,Shipped,2025-04-27,Miguel Ali,"089 Mcdaniel Ford Apt. 332, Seattle, Washington, 29455, USA"
+1Z947462384808830440,O20250186,2025-04-23,UPS,Shipped,2025-04-27,Daniel Lopez,"213 Lori Hollow, Seattle, Washington, 57142, USA"
+1Z787616449093276858,O20250187,2025-04-23,UPS,Shipped,2025-04-27,Priya Garcia,"32097 Timothy Springs Suite 608, Seattle, Washington, 44985, USA"
+1Z881718380966827694,O20250188,2025-04-23,UPS,Shipped,2025-04-27,Daniel Nguyen,"8345 Ashley Land, Seattle, Washington, 68005, USA"
+1Z302031831984612293,O20250189,2025-04-23,UPS,Shipped,2025-04-27,Daniel Lopez,"213 Lori Hollow, Seattle, Washington, 57142, USA"
+1Z600872017835791289,O20250191,2025-04-23,UPS,Shipped,2025-04-26,Leila Young,"913 Nichole Junction Suite 274, Portland, Oregon, 35015, USA"
+1Z282132033790313493,O20250192,2025-04-23,UPS,Shipped,2025-04-25,Raj Martinez,"5612 Lowe Path, Seattle, Washington, 97581, USA"
+1Z847521769632206745,O20250195,2025-04-23,UPS,Shipped,2025-04-26,Priya Garcia,"32097 Timothy Springs Suite 608, Seattle, Washington, 44985, USA"

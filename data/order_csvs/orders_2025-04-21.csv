@@ -1,0 +1,11 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250160,2025-04-21,Mateo Martinez,mateo.martinez@example.com,"9594 Sarah Falls Suite 437, Portland, Oregon, 78281, USA",P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),2,10.99,21.98,Paid,2025-04-22
+O20250161,2025-04-21,Leila Brown,leila.brown@example.com,"70954 Williams Skyway Apt. 446, Seattle, Washington, 85350, USA",P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),3,10.99,32.97,Paid,2025-04-23
+O20250162,2025-04-21,Priya Lee,priya.lee@example.com,"3678 Richard Ferry Apt. 729, Seattle, Washington, 39459, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),3,12.99,38.97,Paid,2025-04-23
+O20250163,2025-04-21,Chloe Nguyen,chloe.nguyen@example.com,"79078 Drew Hills Apt. 446, Seattle, Washington, 04047, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),3,12.25,36.75,Paid,2025-04-23
+O20250164,2025-04-21,Leila Nguyen,leila.nguyen@example.com,"82484 Aaron Stream Apt. 865, Seattle, Washington, 12019, USA",P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),3,10.99,32.97,Paid,2025-04-23
+O20250165,2025-04-21,Noah Johnson,noah.johnson@example.com,"584 Christine Crest Apt. 729, Eugene, Oregon, 72667, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),3,11.49,34.47,Paid,2025-04-22
+O20250166,2025-04-21,Tariq Ali,tariq.ali@example.com,"9920 Jeanne Views Suite 821, Seattle, Washington, 83206, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),1,12.25,12.25,Paid,2025-04-23
+O20250167,2025-04-21,Aisha Martinez,aisha.martinez@example.com,"4557 Kaylee View, Seattle, Washington, 88058, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),2,13.75,27.5,Paid,2025-04-23
+O20250168,2025-04-21,Raj Wang,raj.wang@example.com,"778 Michelle Plaza Suite 380, Seattle, Washington, 72544, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),1,11.49,11.49,Paid,2025-04-22
+O20250169,2025-04-21,Raj Wang,raj.wang@example.com,"06896 Hoffman Shores Suite 347, Seattle, Washington, 29924, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),2,13.75,27.5,Paid,2025-04-22

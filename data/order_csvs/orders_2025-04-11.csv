@@ -1,0 +1,11 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250019,2025-04-11,Priya Wilson,priya.wilson@example.com,"103 Steven Spurs Apt. 305, Seattle, Washington, 59746, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),1,11.49,11.49,Paid,2025-04-12
+O20250020,2025-04-11,Raj Kim,raj.kim@example.com,"457 Silva Meadows Suite 794, Seattle, Washington, 18756, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),1,13.75,13.75,Paid,2025-04-13
+O20250021,2025-04-11,Emily Kim,emily.kim@example.com,"866 Tracy Island, Seattle, Washington, 34472, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),2,12.99,25.98,Paid,2025-04-12
+O20250022,2025-04-11,Chloe Moore,chloe.moore@example.com,"304 Fritz Isle Suite 049, Seattle, Washington, 78261, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),1,14.99,14.99,Paid,2025-04-13
+O20250023,2025-04-11,Priya Khan,priya.khan@example.com,"061 Brown River Apt. 216, Seattle, Washington, 06130, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),3,12.25,36.75,Paid,2025-04-12
+O20250024,2025-04-11,Kenji Davis,kenji.davis@example.com,"09814 Kimberly Stravenue, Seattle, Washington, 53542, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),2,11.49,22.98,Paid,2025-04-13
+O20250025,2025-04-11,Raj Wilson,raj.wilson@example.com,"525 Crawford Expressway, Sacramento, California, 21209, USA",P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),1,10.99,10.99,Paid,2025-04-13
+O20250026,2025-04-11,Tariq Lee,tariq.lee@example.com,"71389 Taylor Island Apt. 787, Seattle, Washington, 55947, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),1,13.75,13.75,Paid,2025-04-12
+O20250027,2025-04-11,Mateo Martinez,mateo.martinez@example.com,"9594 Sarah Falls Suite 437, Portland, Oregon, 78281, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),2,12.25,24.5,Paid,2025-04-13
+O20250028,2025-04-11,Jamal Martinez,jamal.martinez@example.com,"45624 Jared Path, Seattle, Washington, 20850, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),2,13.75,27.5,Paid,2025-04-13

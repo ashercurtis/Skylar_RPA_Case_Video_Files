@@ -1,0 +1,3 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z468424824080071553,O20250227,2025-04-30,UPS,Shipped,2025-05-03,Chloe Nguyen,"79078 Drew Hills Apt. 446, Seattle, Washington, 04047, USA"
+1Z698375819860021356,O20250243,2025-04-30,UPS,Shipped,2025-05-04,Sofia Garcia,"4377 Hoffman Fort, Spokane, Washington, 31713, USA"

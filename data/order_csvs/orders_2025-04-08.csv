@@ -1,0 +1,4 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250011,2025-04-08,Jamal Ali,jamal.ali@example.com,"4124 Jensen River Suite 551, Seattle, Washington, 54288, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),1,11.49,11.49,Paid,2025-04-10
+O20250012,2025-04-08,Miguel Ali,miguel.ali@example.com,"089 Mcdaniel Ford Apt. 332, Seattle, Washington, 29455, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),3,13.75,41.25,Paid,2025-04-09
+O20250013,2025-04-08,Mateo Khan,mateo.khan@example.com,"445 Tammy Motorway, Seattle, Washington, 28865, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),1,14.99,14.99,Paid,2025-04-09

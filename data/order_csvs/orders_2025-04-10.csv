@@ -1,0 +1,3 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250017,2025-04-10,Grace Martinez,grace.martinez@example.com,"39636 Jackson Shore, Eugene, Oregon, 44188, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),1,12.25,12.25,Paid,2025-04-12
+O20250018,2025-04-10,Miguel Wilson,miguel.wilson@example.com,"8091 Jared Gardens Apt. 128, Seattle, Washington, 55178, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),2,11.49,22.98,Paid,2025-04-11

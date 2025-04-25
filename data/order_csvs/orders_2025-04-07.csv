@@ -1,0 +1,2 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250010,2025-04-07,Noah Johnson,noah.johnson@example.com,"584 Christine Crest Apt. 729, Eugene, Oregon, 72667, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),1,11.49,11.49,Paid,2025-04-09

@@ -1,0 +1,4 @@
+tracking_number,order_id,delivery_date,delivery_status,recipient,delivery_address
+1Z793960358892094094,O20250210,2025-05-02,Delivered,Daniel Kim,"151 Aguirre Expressway Apt. 591, Eugene, Oregon, 47326, USA"
+1Z800187630920531968,O20250281,2025-05-02,Delivered,Leila Young,"913 Nichole Junction Suite 274, Portland, Oregon, 35015, USA"
+1Z698375819860021356,O20250243,2025-05-02,Delivered,Sofia Garcia,"4377 Hoffman Fort, Spokane, Washington, 31713, USA"

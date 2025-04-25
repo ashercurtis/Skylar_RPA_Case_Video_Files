@@ -1,0 +1,2 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z865831017141872694,O20250004,2025-04-02,UPS,Shipped,2025-04-06,Daniel Nguyen,"5802 Sloan Creek, Seattle, Washington, 48528, USA"
